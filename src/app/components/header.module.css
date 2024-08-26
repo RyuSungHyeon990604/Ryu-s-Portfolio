@@ -1,6 +1,7 @@
 .header{
     display: flex;
     padding: 15px 150px 15px 150px;
+    box-sizing: border-box;
     align-items: center;
     justify-content: space-between;
 }
@@ -19,4 +20,5 @@
     margin : 0 25px 0  25px;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 }
