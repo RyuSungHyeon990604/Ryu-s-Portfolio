@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    padding: 15px 150px 15px 150px;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 1.5rem;
+    
+}
+
+.menu{
+    font-size: 1rem;
+    display: flex;
+    text-align: center;
+}
+.menu_item{
+    display: flex;
+    margin : 0 25px 0  25px;
+    align-items: center;
+    justify-content: center;
+}
