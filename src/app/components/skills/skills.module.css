@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    height: 600px;
+    padding: 15px 150px 15px 150px;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(251, 230, 133);
+}
+.title{
+    font-family: 'PTBandocheB';
+    font-size: 3rem;
+    margin : 30px 0 90px 0;
+}
+
+@font-face {
+    font-family: 'PTBandocheB';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2408@1.0/PTBandocheB.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
